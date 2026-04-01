@@ -23,6 +23,7 @@ $name = $_SESSION['name'];
             <a href="skills.php">My Skills</a>
             <a href="match.php">Find Tutors</a>
             <a href="sessions.php">My Sessions</a>
+            <a href="progress.php">Progress Tracker</a>
             <a href="logout.php" style="margin-left:auto; color: #e74c3c;">Logout</a>
         </div>
         
